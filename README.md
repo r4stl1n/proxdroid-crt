@@ -1,2 +1,0 @@
-# proxdroid-crt
-# proxdroid-crt
