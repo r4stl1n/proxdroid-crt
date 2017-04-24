@@ -1,16 +1,14 @@
 Intro
 =====
 
+CRT Notes:
+This application was fixed to compile and run on the latest arm versions.
+This should work on all new android devices wit a usb host port.
+
 This is a fork from the marcv81's proxdroid project. It was compiled with the version 2.3.0 of the official proxmark3 repo.
 
 This is the proxmark3 client for Android. You'll need a proxmark3 board, a rooted Android device that supports the USB host mode, and a USB OTG cable to connect them. If your Android device does not power the proxmark3 board you may need an external power supply and a Y USB cable.
 
-Devices known to work:
-- LG G3 with proxdroid3 RDV2 Board from ElecHouse (the board is powered by the phone).
-
-CRT Notes:
-This application was fixed to compile for the latest arm version. This should work on all new android 
-devices with a usb host.
 
 Build
 =====
